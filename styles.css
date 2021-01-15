@@ -1,0 +1,52 @@
+.homepage {
+    background-image: url("truck4.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+
+   }
+
+header {
+    margin: auto;
+}
+
+header h1{
+    margin: auto;
+    height: 50px;
+    text-align: center;
+    color: crimson;
+}
+
+.navbar {
+    margin:opx auto auto auto;
+
+}
+
+nav {
+    margin: auto;
+    display:block;
+    font: 10px;
+    text-align: center;
+}
+
+.container-mission {
+
+    width: 33%;
+}
+
+.container-mission h2 {
+    color: crimson;
+    text-align: center;
+}
+
+.about {
+    background-image: url("aboutme.jpeg");
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+.contact {
+    text-align:center;
+    background-image: url("aboutme.jpeg");
+    background-size: cover;
+    background-repeat: no-repeat;
+}
