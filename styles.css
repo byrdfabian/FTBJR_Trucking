@@ -50,3 +50,30 @@ nav {
     background-size: cover;
     background-repeat: no-repeat;
 }
+
+.about-img {
+    height: 500px;
+    width: 500px;
+    margin: auto;
+    text-align: center;
+    background-color: aliceblue;
+
+}
+
+h2 {
+    color: crimson;
+}
+
+.picture {
+    float: left;
+    margin:10px;
+    height: 300px;
+    width: 200px;
+}
+
+.about-img p {
+    color: crimson;
+    float: right;
+    margin:10px;
+    
+}
