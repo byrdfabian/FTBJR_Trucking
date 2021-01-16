@@ -1,5 +1,5 @@
 .homepage {
-    background-image: url("/images/truck4.jpg");
+    background-image: url("./images/truck4.jpg");
     background-size: cover;
     background-repeat: no-repeat;
 
@@ -39,14 +39,14 @@ nav {
 }
 
 .about {
-    background-image: url("/images/aboutme.jpeg");
+    background-image: url("./images/aboutme.jpeg");
     background-size: cover;
     background-repeat: no-repeat;
 }
 
 .contact {
     text-align:center;
-    background-image: url("/images/aboutme.jpeg");
+    background-image: url("./images/aboutme.jpeg");
     background-size: cover;
     background-repeat: no-repeat;
 }
