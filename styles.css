@@ -11,32 +11,29 @@ header {
 
 header h1{
     margin: auto;
-    height: 50px;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 100px;
     text-align: center;
     color: crimson;
-}
-
-.navbar {
-    margin:opx auto auto auto;
-
 }
 
 nav {
     margin: auto;
     display:block;
-    font: 10px;
+    font-size: 40px;
+    color:aliceblue;
     text-align: center;
 }
 
 .container-mission {
-
-    width: 33%;
-}
-
-.container-mission h2 {
-    color: crimson;
+    margin: auto;
     text-align: center;
+    font-size: 38px;
+    font-weight: 100;
+    font-family: Tahoma, Verdana, sans-serif
+    
 }
+
 
 .about {
     background-image: url("./images/aboutme.jpeg");
@@ -51,7 +48,7 @@ nav {
     background-repeat: no-repeat;
 }
 
-.about-img {
+.about-img{
     height: 500px;
     width: 500px;
     margin: auto;
@@ -60,20 +57,9 @@ nav {
 
 }
 
-h2 {
-    color: crimson;
-}
-
-.picture {
-    float: left;
-    margin:10px;
-    height: 300px;
-    width: 200px;
-}
-
 .about-img p {
     color: crimson;
     float: right;
-    margin:10px;
+    
     
 }
